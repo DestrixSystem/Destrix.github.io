@@ -1,5 +1,10 @@
 {
-  "error": {
-    "message": "WIP"
+  "name": "testing-command-1",
+  "id": -1,
+  "status": {
+    "is_enabled": false,
+    "is_testing_command": true,
+    "encrypted": false,
+    "protection": "unknown"
   }
 }
